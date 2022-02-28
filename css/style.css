@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#female-img {
+    display: none;
+    width: 50%;
+}
+
+#male-img {
+    display: none;
+    width: 50%;
+}
+
+.spinner {
+    display: none;
+}
